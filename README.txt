@@ -325,4 +325,3 @@ fun AgonAppTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composabl
 8️⃣ HomeScreen.kt - قائمة المشتركين (كامل - عرضت أعلاه)
 9️⃣ AddEditSubscriberScreen.kt - إضافة/تعديل مشترك (كامل - عرضت أعلاه)
 🔟 SettingsScreen.kt - الإعدادات + تدرجات الألوان (كامل - عرضت أعلاه)
-✅ كل الكود موجود هنا! يمكنك نسخه واستخدامه في أي مشروع Android Studio أو Kotlin
